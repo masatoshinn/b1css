@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/version-1.0.0-6366f1?style=for-the-badge" alt="Version 1.0.0" />
     <img src="https://img.shields.io/badge/dependencies-zero-22c55e?style=for-the-badge" alt="Zero Dependencies" />
     <img src="https://img.shields.io/badge/CSS-Framework-06b6d4?style=for-the-badge" alt="CSS Framework" />
-    <img src="https://img.shields.io/badge/maintained-by%20PixelPulse%20Innovations-8b5cf6?style=for-the-badge" alt="PixelPulse Innovations" />
+    <img src="https://img.shields.io/badge/maintained-by%20mostofa%20Studio.-8b5cf6?style=for-the-badge" alt="mostofa Studio" />
   </p>
 
   <p>
@@ -41,7 +41,7 @@ entirely on predefined components, B1CSS brings both approaches together.
 Build interfaces using utility classes, create layouts with responsive
 grid utilities, and style reusable elements with component classes.
 
-Developed by **PixelPulse Innovations**, B1CSS aims to make everyday
+Developed by **mostofa Studio.**, B1CSS aims to make everyday
 frontend styling simpler, more consistent, and easier to maintain.
 
 ### Why B1CSS?
